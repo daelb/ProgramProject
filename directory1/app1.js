@@ -1,1 +1,1 @@
-console.log('Greetings Earthlings');
+console.log('Greetings');
